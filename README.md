@@ -5,7 +5,7 @@ An efficientl ETF database management system. when run ,recent  data for specifi
 ## Start
 1. **Clone the Repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/left-nullspace/etf-sql-database-python
    ```
 2. **Install Dependencies**:
    ```
